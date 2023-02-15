@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\as.c" />
+    <ClCompile Include="src\eval.c" />
+    <ClCompile Include="src\ffwd.c" />
+    <ClCompile Include="src\globals.c" />
+    <ClCompile Include="src\output.c" />
+    <ClCompile Include="src\pseudo.c" />
+    <ClCompile Include="src\symtab.c" />
+    <ClCompile Include="src\table0.c" />
+    <ClCompile Include="src\util.c" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\as.h" />
+    <ClInclude Include="src\do.h" />
+    <ClInclude Include="src\eval.h" />
+    <ClInclude Include="src\ffwd.h" />
+    <ClInclude Include="src\globals.h" />
+    <ClInclude Include="src\output.h" />
+    <ClInclude Include="src\pseudo.h" />
+    <ClInclude Include="src\symtab.h" />
+    <ClInclude Include="src\table.h" />
+    <ClInclude Include="src\util.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{0288969e-1f1c-40f2-a6ee-68cf29f2f532}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{ed885276-c8e7-47cd-80d0-a16797379df4}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,75 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="src\as.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\do5.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\eval.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\ffwd.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\globals.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\output.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\pseudo.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\symtab.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\table0.c">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="src\util.c">
+      <Filter>Header Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\as.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\do.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\eval.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\ffwd.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\globals.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\output.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\pseudo.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\symtab.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\table.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="src\util.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{44e63e46-2e8f-4ef2-9f60-49c6e3aac4da}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{afd9cbd1-8084-4a18-9d6a-6e9d5e888a4b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
